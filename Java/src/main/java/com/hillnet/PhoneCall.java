@@ -1,4 +1,4 @@
-package com.fdm.codefights;
+package com.hillnet;
 
 public class PhoneCall {
 

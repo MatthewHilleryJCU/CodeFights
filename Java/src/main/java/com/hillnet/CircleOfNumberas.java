@@ -1,4 +1,3 @@
-package com.fdm.codefights;
 
 
 public class CircleOfNumberas {

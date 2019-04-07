@@ -1,4 +1,4 @@
-package com.fdm.codefights;
+package com.hillnet;
 
 /*
  * Your friend advised you to see a new performance in the most popular theater in the 

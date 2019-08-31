@@ -43,7 +43,7 @@ cmake-build-*/
 
 # IntelliJ
 out/
-
+target/
 # mpeltonen/sbt-idea plugin
 .idea_modules/
 
@@ -61,3 +61,6 @@ fabric.properties
 
 # Editor-based Rest Client
 .idea/httpRequests
+.idea/*
+/Java/.idea/*
+.vscode

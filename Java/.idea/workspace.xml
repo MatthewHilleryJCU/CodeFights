@@ -2,17 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8877f6fc-3f74-443c-a3a8-d14a8f6b9058" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/hillnet/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hillnet/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hillnet/CircleOfNumberas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hillnet/CircleOfNumberas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hillnet/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/CircleOfNumberas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hillnet/AddTwoDigits.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hillnet/AddTwoDigits.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/hillnet/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hillnet/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/hillnet/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hillnet/Candieas.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hillnet/Candieas.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hillnet/LargestNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hillnet/LargestNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hillnet/LateRide.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hillnet/LateRide.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hillnet/MaxMultiple.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hillnet/MaxMultiple.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/hillnet/PhoneCall.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hillnet/PhoneCall.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hillnet/Theater.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hillnet/Theater.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/hillnet/AppTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/hillnet/AppTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../ProjectEuler/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ProjectEuler/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -26,20 +27,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/hillnet/App.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/hillnet/SpamDetection.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+            <state relative-caret-position="646">
+              <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/hillnet/AdditionWithoutCarrying.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/hillnet/SpamDetectionTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="32" column="44" selection-start-line="32" selection-start-column="44" selection-end-line="32" selection-end-column="44" />
+            <state relative-caret-position="612">
+              <caret line="37" selection-start-line="37" selection-end-line="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -50,6 +57,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
   </component>
@@ -73,8 +81,10 @@
         <option value="$PROJECT_DIR$/src/main/java/com/hillnet/CountSumOfTwoRepresentations2.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hillnet/MagicWell.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hillnet/LineUp.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hillnet/App.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hillnet/AdditionWithoutCarrying.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/hillnet/SpamDetectionTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hillnet/App.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hillnet/SpamDetection.java" />
       </list>
     </option>
   </component>
@@ -86,8 +96,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="253" />
-    <option name="y" value="-21" />
+    <option name="x" value="659" />
+    <option name="y" value="209" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
@@ -97,6 +107,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -119,6 +131,21 @@
               <item name="codefightsjava" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codefightsjava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hillnet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codefightsjava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -136,48 +163,29 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="hillnet" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="codefightsjava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="codefightsjava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProjectEuler" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="codefightsjava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProjectEuler" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="codefightsjava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProjectEuler" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="codefightsjava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProjectEuler" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565094338284" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../RocketLeagueConfigs" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568465139013" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Tom/jcu-career-link" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.hillnet" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -191,7 +199,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.App">
+  <component name="RunManager" selected="JUnit.SpamDetectionTest.failIfNintyPercentOfMessagesHaveFewerThanFiveWords">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.hillnet.App" />
       <module name="Java" />
@@ -218,9 +226,59 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SpamDetectionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hillnet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hillnet" />
+      <option name="MAIN_CLASS_NAME" value="com.hillnet.SpamDetectionTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpamDetectionTest.failIfNintyPercentOfMessagesHaveFewerThanFiveWords" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hillnet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hillnet" />
+      <option name="MAIN_CLASS_NAME" value="com.hillnet.SpamDetectionTest" />
+      <option name="METHOD_NAME" value="failIfNintyPercentOfMessagesHaveFewerThanFiveWords" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpamDetectionTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hillnet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hillnet" />
+      <option name="MAIN_CLASS_NAME" value="com.hillnet.SpamDetectionTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SpamDetectionTest.failIfNintyPercentOfMessagesHaveFewerThanFiveWords" />
+        <item itemvalue="JUnit.SpamDetectionTest" />
         <item itemvalue="Application.App" />
+        <item itemvalue="JUnit.SpamDetectionTest.test1" />
         <item itemvalue="Application.PhoneCall" />
       </list>
     </recent_temporary>
@@ -238,10 +296,43 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="SpamDetectionTest_failIfNintyPercentOfMessagesHaveFewerThanFiveWords - 2019.09.05 at 20h 44m 28s.xml">
+      <configuration name="SpamDetectionTest.failIfNintyPercentOfMessagesHaveFewerThanFiveWords" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpamDetectionTest_failIfNintyPercentOfMessagesHaveFewerThanFiveWords - 2019.09.05 at 20h 45m 00s.xml">
+      <configuration name="SpamDetectionTest.failIfNintyPercentOfMessagesHaveFewerThanFiveWords" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpamDetectionTest_failIfNintyPercentOfMessagesHaveFewerThanFiveWords - 2019.09.05 at 20h 45m 29s.xml">
+      <configuration name="SpamDetectionTest.failIfNintyPercentOfMessagesHaveFewerThanFiveWords" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpamDetectionTest_failIfNintyPercentOfMessagesHaveFewerThanFiveWords - 2019.09.05 at 20h 48m 19s.xml">
+      <configuration name="SpamDetectionTest.failIfNintyPercentOfMessagesHaveFewerThanFiveWords" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpamDetectionTest_failIfNintyPercentOfMessagesHaveFewerThanFiveWords - 2019.09.05 at 20h 49m 20s.xml">
+      <configuration name="SpamDetectionTest.failIfNintyPercentOfMessagesHaveFewerThanFiveWords" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpamDetectionTest_failIfNintyPercentOfMessagesHaveFewerThanFiveWords - 2019.09.05 at 20h 49m 57s.xml">
+      <configuration name="SpamDetectionTest.failIfNintyPercentOfMessagesHaveFewerThanFiveWords" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpamDetectionTest_failIfNintyPercentOfMessagesHaveFewerThanFiveWords - 2019.09.05 at 20h 55m 34s.xml">
+      <configuration name="SpamDetectionTest.failIfNintyPercentOfMessagesHaveFewerThanFiveWords" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpamDetectionTest - 2019.09.14 at 22h 44m 03s.xml">
+      <configuration name="SpamDetectionTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpamDetectionTest_failIfNintyPercentOfMessagesHaveFewerThanFiveWords - 2019.09.14 at 22h 44m 20s.xml">
+      <configuration name="SpamDetectionTest.failIfNintyPercentOfMessagesHaveFewerThanFiveWords" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpamDetectionTest_failIfNintyPercentOfMessagesHaveFewerThanFiveWords - 2019.09.14 at 22h 45m 41s.xml">
+      <configuration name="SpamDetectionTest.failIfNintyPercentOfMessagesHaveFewerThanFiveWords" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26599148" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1369936" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -250,7 +341,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.55362946" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -380,17 +471,47 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hillnet/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/hillnet/AdditionWithoutCarrying.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
           <caret line="32" column="44" selection-start-line="32" selection-start-column="44" selection-end-line="32" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/hillnet/AppTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hillnet/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="39" column="1" lean-forward="true" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hillnet/SpamDetection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/hillnet/SpamDetectionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -446,7 +567,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>ProjectEuler</last-edited>
+          <last-edited>Java</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
